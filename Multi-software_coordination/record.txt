@@ -1,0 +1,2 @@
+laout.m can change matrix in matlab into LaTeX code of table.
+
